@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: image-processing
+Version: 0.1.0
+Summary: Um pacote simples para processamento de imagens.
+Author: Seu Nome
+Author-email: seuemail@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: Pillow
+
+#Image Processo
+
+Um pacote simples para processamento de imagens em Python.
+
+##InstalaÃ§Ã£o
+
+``` bash
+pip install -e .

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: image-processor
+Version: 0.1
+Summary: A simple image processing packge
+Home-page: https://github.com/GiovaneL54/image_processor
+Author: Giovane
+Author-email: giovane_most
+Requires-Dist: Pillow
+Requires-Dist: numpy
+Requires-Dist: opencv-python
